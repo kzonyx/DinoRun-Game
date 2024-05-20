@@ -1,7 +1,7 @@
-import Player from "./Player.js";
-import Ground from "./Ground.js";
-import CactiController from "./CactiController.js";
-import Score from "./Score.js";
+import Player from "./js/Player.js";
+import Ground from "./js/Ground.js";
+import CactiController from "./js/CactiController.js";
+import Score from "./js/Score.js";
 
 
 const canvas = document.getElementById("game");
